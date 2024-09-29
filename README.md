@@ -71,10 +71,6 @@ Copy code
 
 - If no QR code or tree trunk is found in the image, an error message will be raised.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contributions
 
 Feel free to contribute by creating issues or pull requests.
